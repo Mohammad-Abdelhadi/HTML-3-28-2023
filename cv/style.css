@@ -1,0 +1,66 @@
+.External{
+    color: white;
+    background-color: green;
+    font-size: 30px;
+    text-align: center;
+}
+.selector{
+    color: aqua;
+    text-decoration: underline;
+    font-weight: bold;
+}
+#selector{
+    background-color: aqua;
+    color: rgb(0, 255, 0);
+
+}
+.firstdiv{
+    background-color: aquamarine;
+}
+.firstdiv p{
+    color: red;
+}
+.firstdiv h6{
+    color: blue;
+}
+
+.seconddiv{
+    background-color: pink;
+    text-align: center;
+    font-size: 14px;
+}
+.seconddiv h6{
+color: rgb(17, 17, 94);
+font-size: 14px;
+}
+.seconddiv p{
+    color: rgb(255, 0, 0);
+    }
+
+    .third-div .first-class,.thirdcoolclass,.lastclass {
+     background-color: #FFCCCB;
+     font-family: Verdana, "DejaVu Sans", sans-serif;
+
+    }
+    #second-id{
+        color: blue;
+        font-size: 36px;
+        margin: 0;
+    }
+.thirdcoolclass{
+ font-size: 24px;
+
+}    
+#fourth-id{
+    background-color: #66FF99;
+    font-size: 24px;
+    font-weight: bold;
+}
+.lastdiv{
+    background-color: aqua;
+    width: 700px;
+    height: 700px;
+}
+.divdiv div{
+    border: 4px solid #fff;
+}
